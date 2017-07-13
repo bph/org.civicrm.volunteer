@@ -37,5 +37,5 @@ This documentation book provides assistance to users, administrators, and develo
 ## Future plans
 
 * Going forward there are some great ideas on the drawing board for phase 2 including: specification of qualifications and skill-matching, linking volunteer opportunities directly to an organization or individual, recurring volunteer opportunities, public recognition / rewards, and self-service logging of volunteer hours.
-* If your organization has a invested in a CiviCRM installation, and you foresee a need for CiviVolunteer, consider donating to the ongoingdevelopment of CiviVolunteer through the [Make it Happen program](https://civicrm.org/make-it-happen/civivolunteer-improvements).
+* If your organization has an invested interest in a CiviCRM installation, and you foresee a need for CiviVolunteer, consider donating to the ongoing development of CiviVolunteer through the [Make it Happen program](https://civicrm.org/make-it-happen/civivolunteer-improvements).
 * Developers within organizations that would like to use CiviVolunteer are more than welcome to participate in the development and testing effort. Contact us via the project's [GitHub repository](https://github.com/civicrm/civivolunteer), email us at inquire@ginkgostreet.com or call us at 1-888-223-6609.
